@@ -39,7 +39,7 @@ public class ServiceLocation extends Service {
 
     /** Intervalo deseado para la toma de actualizaciones de ubicación : */
     public static final long UPDATE_INTERVAL_IN_MILLISECONDS = 5 * 60 * 1000;
-    
+
     private SettingsClient mSettingsClient;
     private LocationRequest mLocationRequest;
     private LocationSettingsRequest mLocationSetttingsRequest;
