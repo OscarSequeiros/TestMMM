@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestMMM</string>
+    <string name="login_hint_user">Usuario</string>
+    <string name="login_hint_pass">Password</string>
+    <string name="login_btn_login">INGRESAR</string>
+
+    <!-- Navigation bottom -->
+    <string name="item_list">LISTA</string>
+    <string name="item_gps">GPS</string>
+    <string name="item_latlon">UBICACIÓN</string>
+
+    <!-- GPS -->
+    <string name="gps_start">Iniciar servicio</string>
+
+</resources>

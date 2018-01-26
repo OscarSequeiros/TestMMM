@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_list"
+        android:icon="@drawable/ic_list"
+        android:title="@string/item_list"/>
+
+    <item
+        android:id="@+id/navigation_gps"
+        android:icon="@drawable/ic_gps"
+        android:title="@string/item_gps" />
+
+    <item
+        android:id="@+id/navigation_latlon"
+        android:icon="@drawable/ic_lat"
+        android:title="@string/item_latlon" />
+
+
+</menu>
